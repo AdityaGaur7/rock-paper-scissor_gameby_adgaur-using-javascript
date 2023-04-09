@@ -12,7 +12,7 @@ let urwin = 0;
 let cpuwin = 0;
 
 const cpur = () => {
-    let random = Math.floor(Math.random() * 3);
+    let random = Math.floor(Math.random() * 4);
 
     if (random == 1) {
 
@@ -35,7 +35,7 @@ const cpur = () => {
 
 }
 const cpup = () => {
-    let random = Math.floor(Math.random() * 3);
+    let random = Math.floor(Math.random() * 4);
 
     if (random == 1) {
 
@@ -59,7 +59,7 @@ const cpup = () => {
 
 const cpus = () => {
 
-    let random = Math.floor(Math.random() * 3);
+    let random = Math.floor(Math.random() * 4);
 
     if (random == 1) {
 
